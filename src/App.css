@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,19 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.head{
+  width: 100%;
+  height: 100vh;
+}
+
+.header{
+  background-color: skyblue;
+  /* width: 100%; */
+  height: 80px;
+  color: white;
+  /* justify-content: center; */
+  /* display: flex; */
+  align-items: center;
 }
